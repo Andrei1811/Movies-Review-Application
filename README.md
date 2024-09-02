@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 Project Title: Movies Review Application
 
 Description:
@@ -13,3 +16,10 @@ Frontend Enhancements: Implemented dynamic UI elements, including sentiment-base
 Advanced Debugging: Improved debugging skills by solving complex issues related to asynchronous data handling and DOM manipulation.
 Version Control: Maintained project updates and collaborated using Git and GitHub.
 This project enhanced my expertise in full-stack development, focusing on building responsive, interactive web applications with seamless backend integration.
+<<<<<<< HEAD
+=======
+
+Steps to start the app:
+1. Navigate into the "Backend" folder and type "npm start" in the terminal to start the server
+2. Open the "index.html" file from the "Frontend" folder
+>>>>>>> master
