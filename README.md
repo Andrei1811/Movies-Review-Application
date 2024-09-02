@@ -1,2 +1,15 @@
-# Movies-Review-Application
-Movies Review Application: A full-stack project using Node.js, Express.js, MongoDB, and JavaScript. Users can browse movies, submit reviews, and interact with others. Skills gained: backend/frontend integration, MongoDB CRUD operations, RESTful API development, dynamic UI elements, debugging, and version control with Git/GitHub.
+
+Project Title: Movies Review Application
+
+Description:
+This Movies Review Application allows users to browse movies, submit reviews, and interact with existing reviews. Built with Node.js, Express.js, MongoDB, and vanilla JavaScript, the application features dynamic movie listings and sentiment-based review highlighting.
+
+Skills Acquired:
+
+Full-Stack Development: Integrated backend and frontend, enabling dynamic data flow between Node.js/Express.js and the user interface.
+Database Management: Managed movie reviews using MongoDB, including CRUD operations and data persistence.
+RESTful API Design: Created and optimized APIs to handle movie reviews, including real-time data updates without page refresh.
+Frontend Enhancements: Implemented dynamic UI elements, including sentiment-based card coloring and hover effects for a more interactive user experience.
+Advanced Debugging: Improved debugging skills by solving complex issues related to asynchronous data handling and DOM manipulation.
+Version Control: Maintained project updates and collaborated using Git and GitHub.
+This project enhanced my expertise in full-stack development, focusing on building responsive, interactive web applications with seamless backend integration.
