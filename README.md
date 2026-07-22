@@ -1,13 +1,13 @@
 # Movies Review Application
 
-A full-stack web application that allows users to browse movies, submit reviews, and manage movie ratings through a responsive interface. The project demonstrates frontend-backend integration using Node.js, Express.js, MongoDB, and vanilla JavaScript.
+A full-stack web application developed with **Node.js**, **Express.js**, **MongoDB**, and **JavaScript**. The application allows users to browse movies, submit reviews, and manage existing reviews through a clean and responsive interface.
 
 ---
 
 ## Features
 
 - Browse movie collection
-- Add new movie reviews
+- Add movie reviews
 - Edit existing reviews
 - Delete reviews
 - Dynamic movie listing
@@ -36,14 +36,7 @@ A full-stack web application that allows users to browse movies, submit reviews,
 ```text
 Movies-Review-Application
 ├── Backend
-│   ├── routes
-│   ├── models
-│   ├── controllers
-│   └── server.js
 ├── Frontend
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
 └── README.md
 ```
 
@@ -65,10 +58,15 @@ Clone the repository:
 git clone https://github.com/Andrei1811/Movies-Review-Application.git
 ```
 
-Install backend dependencies:
+Navigate to the backend folder:
 
 ```bash
 cd Backend
+```
+
+Install dependencies:
+
+```bash
 npm install
 ```
 
@@ -78,39 +76,28 @@ Start the backend server:
 npm start
 ```
 
-Open:
+Open the following file in your browser:
 
 ```text
 Frontend/index.html
 ```
-
-in your browser.
 
 ---
 
 ## Project Highlights
 
 - Full-stack web application
-- CRUD operations with MongoDB
-- RESTful API development
+- RESTful API development with Express.js
+- CRUD operations using MongoDB
 - Frontend and backend integration
-- Dynamic DOM manipulation
-- Responsive interface
-- Git version control
-
----
-
-## Future Improvements
-
-- User authentication
-- Movie search and filtering
-- Rating system
-- User profiles
-- Pagination
-- Docker deployment
+- Dynamic user interface with JavaScript
+- Responsive design
+- Version control using Git and GitHub
 
 ---
 
 ## Author
 
 **Andrei Răulea**
+
+Master's Degree Project – Lucian Blaga University of Sibiu
