@@ -1,21 +1,116 @@
+# Movies Review Application
 
-Project Title: Movies Review Application
+A full-stack web application that allows users to browse movies, submit reviews, and manage movie ratings through a responsive interface. The project demonstrates frontend-backend integration using Node.js, Express.js, MongoDB, and vanilla JavaScript.
 
-Description:
-This Movies Review Application allows users to browse movies, submit reviews, and interact with existing reviews. Built with Node.js, Express.js, MongoDB, and vanilla JavaScript, the application features dynamic movie listings and sentiment-based review highlighting.
+---
 
-Skills Acquired:
+## Features
 
-Full-Stack Development: Integrated backend and frontend, enabling dynamic data flow between Node.js/Express.js and the user interface.
-Database Management: Managed movie reviews using MongoDB, including CRUD operations and data persistence.
-RESTful API Design: Created and optimized APIs to handle movie reviews, including real-time data updates without page refresh.
-Frontend Enhancements: Implemented dynamic UI elements, including sentiment-based card coloring and hover effects for a more interactive user experience.
-Advanced Debugging: Improved debugging skills by solving complex issues related to asynchronous data handling and DOM manipulation.
-Version Control: Maintained project updates and collaborated using Git and GitHub.
-This project enhanced my expertise in full-stack development, focusing on building responsive, interactive web applications with seamless backend integration.
+- Browse movie collection
+- Add new movie reviews
+- Edit existing reviews
+- Delete reviews
+- Dynamic movie listing
+- Sentiment-based review highlighting
+- RESTful API communication
+- MongoDB data persistence
+- Responsive user interface
 
+---
 
-Steps to start the app:
-1. Navigate into the "Backend" folder and type "npm start" in the terminal to start the server
-2. Open the "index.html" file from the "Frontend" folder
+## Technologies
 
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+- REST API
+- Git & GitHub
+
+---
+
+## Project Structure
+
+```text
+Movies-Review-Application
+├── Backend
+│   ├── routes
+│   ├── models
+│   ├── controllers
+│   └── server.js
+├── Frontend
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── README.md
+```
+
+---
+
+## Getting Started
+
+### Requirements
+
+- Node.js
+- MongoDB
+- npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Andrei1811/Movies-Review-Application.git
+```
+
+Install backend dependencies:
+
+```bash
+cd Backend
+npm install
+```
+
+Start the backend server:
+
+```bash
+npm start
+```
+
+Open:
+
+```text
+Frontend/index.html
+```
+
+in your browser.
+
+---
+
+## Project Highlights
+
+- Full-stack web application
+- CRUD operations with MongoDB
+- RESTful API development
+- Frontend and backend integration
+- Dynamic DOM manipulation
+- Responsive interface
+- Git version control
+
+---
+
+## Future Improvements
+
+- User authentication
+- Movie search and filtering
+- Rating system
+- User profiles
+- Pagination
+- Docker deployment
+
+---
+
+## Author
+
+**Andrei Răulea**
